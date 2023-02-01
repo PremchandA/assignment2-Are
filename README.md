@@ -16,6 +16,11 @@
     2. Rashid khan
     3. Bhuvaneshwar kumar
 
+* IPL Teams 
+    * Mumbai indians
+    * Delhi capitals
+    * punjab kings    
+
 
 
 
