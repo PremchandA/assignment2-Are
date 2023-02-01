@@ -41,3 +41,16 @@
 
 ***Premchand Are***
 
+----
+
+> Display a User Gravatar from an Email Address
+
+><https://stackoverflow.com/questions/2718860/how-to-build-a-url-of-a-gravatar-image-from-a-given-email>
+
+~~~
+<?php
+  $gravatar_link = 'http://www.gravatar.com/avatar/' . md5($comment_author_email) . '?s=32';
+   echo '<img src="' . $gravatar_link . '" />';
+?>
+~~~
+><https://css-tricks.com/snippets/php/display-a-user-gravatar-from-email-address/>
