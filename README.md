@@ -32,3 +32,12 @@
 | paris | good places | 20 |
 | uk | historical places | 15 |
 | srilanka | good nature | 5 |
+
+------
+# Pithy Quotes 
+> 1. We should eat good healthy food until we are feeling good.
+
+> 2. an apple a day keeps your wallet away.
+
+***Premchand Are***
+
