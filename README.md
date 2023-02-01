@@ -42,7 +42,7 @@
 ***Premchand Are***
 
 ----
-
+# code fencing 
 > Display a User Gravatar from an Email Address
 
 ><https://stackoverflow.com/questions/2718860/how-to-build-a-url-of-a-gravatar-image-from-a-given-email>
