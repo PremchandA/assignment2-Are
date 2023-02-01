@@ -24,3 +24,11 @@
 
 [link to AboutMe.md](AboutMe.md)
 
+----
+# countries
+| name of the country | Reason | number of days |
+| --- | --- | ---: |
+| canada | good weather | 10 |
+| paris | good places | 20 |
+| uk | historical places | 15 |
+| srilanka | good nature | 5 |
